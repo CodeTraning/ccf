@@ -1,2 +1,2 @@
 # ccf
-ccf traninh: http://118.190.20.162/home.page
+ccf traninh:http://cspro.org/lead/leadbpm.do?__action=login
